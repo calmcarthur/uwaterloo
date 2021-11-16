@@ -22,6 +22,7 @@ from nba_api.stats.static.players import _get_player_dict
 # player_dict = players.get_players()
 # bron = [player for player in player_dict if player['full_name'] == 'LeBron James'][0]
 
+
 from nba_api.stats.endpoints import playercareerstats
 
 careetstats = playercareerstats.PlayerCareerStats(player_id= playernum)
