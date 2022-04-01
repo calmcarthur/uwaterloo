@@ -1,6 +1,6 @@
 Hello, I’m @calmcarthur
-- I’m interested in systems integration, backend development and machine learning. 
-- I’m currently learning software and systems design at the University of Waterloo and
+- I’m interested in systems integration, robotics, and software. 
+- I’m currently taking Systems Design Engineering at the University of Waterloo and
   looking to work on new and challenging projects.
 
 📫 How to reach me:
